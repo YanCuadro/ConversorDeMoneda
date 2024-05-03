@@ -1,2 +1,14 @@
 <h1 align="center">Conversor de Moneda</h1>
-![z](https://github.com/YanCuadro/ConversorDeMoneda/assets/106443859/d6398288-9540-4e65-8fa7-93fd0e5945a6)
+
+
+
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: descripción de la funcionalidad
+- 1- `Funcionalidad 2`: descripción de la funcionalidad
+- 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad
+- 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+
+## Authors
+
+- [@YanCuadro](https://github.com/YanCuadro)

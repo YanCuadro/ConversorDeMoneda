@@ -12,10 +12,14 @@ Es un conversor de moneda que implementa la API de tasas de cambio [ExchangeRate
 - 6- `Funcionalidad 6`: La otra opción inversa es que puede convertir la moneda del peso colombiano [COP] a dolar [USD].
 - 7- `Funcionalidad 7`: En esta opción el usuario puede ver el historial completo de sus búsquedas y la fecha en que la realizó
 
+## Video
+https://github.com/YanCuadro/ConversorDeMoneda/assets/106443859/a5a0483c-5380-42b5-858e-cdf1c6314b27
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/YanCuadro/ConversorDeMoneda/assets/106443859/0ff229eb-0aaf-48fc-a096-853788996800)
 
 ## Authors
+
 - [@YanCuadro](https://github.com/YanCuadro)
 
